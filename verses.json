@@ -1,10 +1,12 @@
-[
+{
+  "verses": [
     {"book":"Colossians","chapter":3,"verse":17,"text":"And whatever you do, do it in the name of the Lord Jesus, giving thanks to God the Father through him."},
     {"book":"Philippians","chapter":4,"verse":13,"text":"I can do all things through Christ who strengthens me."},
-    {"book":"Psalm","chapter":23,"verse":1,"text":"The Lord is my shepherd; I shall not want."}
-    {"book":"Matthew","chapter":4,"verse":4,"text":"Jesus answered, 'It is written: 'Man shall not live on bread alone, but on everyword that comes from the mouth of God.' '"}
-    {"book":"James","chapter":5,"verse":16,"text":"Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous man is powerful and effective."}
-    {"book":"Exodus","chapter":14,"verse":14,"text":"The Lord will fight for you; you need only to be still."}
-    {"book":"Hebrews","chapter":2,"verse":18,"text":"Because he himself suffered when he was tempted, he is able to help those who are being tempted."}
-    {"book":"Ecclesiates","chapter":4,"verse":9,"text":"Two are better than one because they have a good return for their labor:..."}
-]
+    {"book":"Psalm","chapter":23,"verse":1,"text":"The Lord is my shepherd; I shall not want."},
+    {"book":"Matthew","chapter":4,"verse":4,"text":"Jesus answered, 'It is written: Man shall not live on bread alone, but on every word that comes from the mouth of God.'"},
+    {"book":"James","chapter":5,"verse":16,"text":"Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous man is powerful and effective."},
+    {"book":"Exodus","chapter":14,"verse":14,"text":"The Lord will fight for you; you need only to be still."},
+    {"book":"Hebrews","chapter":2,"verse":18,"text":"Because he himself suffered when he was tempted, he is able to help those who are being tempted."},
+    {"book":"Ecclesiastes","chapter":4,"verse":9,"text":"Two are better than one because they have a good return for their labor:..."}
+  ]
+}
